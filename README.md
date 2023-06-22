@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DATA ANALYTICS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-- contact on +91 8106628042
+- contact me on +91 8106628042
 - mail:- modini4747@gmail.com
 
 <!---
