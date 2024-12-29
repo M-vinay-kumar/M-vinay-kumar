@@ -23,7 +23,10 @@ Welcome to my GitHub profile! I am an aspiring Machine Learning Engineer, passio
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXExOHdhaDN2NmxoaDNmcmliNXFkZndkMHE3eXUxOHN2dTRncHV6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/se41ElJcRLtUngjGgw/giphy.gif" width="50" height="50" alt="WhatsApp" />
   </a>
 </p>
+
+---
+
 <p align="center">
   <img src="https://media1.tenor.com/m/Ny27M3POZacAAAAC/hotel-animation.gif" alt="Neural Network Animation" width="480" height="280" />
 </p>
----
+
