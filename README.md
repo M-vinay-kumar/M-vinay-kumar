@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-vinay-kumar
-- 👀 I’m interested in JAVA & PYTHON 
-- 🌱 I’m currently learning DATA ANALYTICS 
+- 👀 I’m interested in PYTHON 
+- 🌱 I’m currently learning DATA SCIENCE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - contact me on +91 8106628042
