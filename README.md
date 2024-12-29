@@ -30,7 +30,8 @@ Welcome to my GitHub profile! I am an aspiring Machine Learning Engineer, passio
 
 ---
 
-<p align="center">
+
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://github.com/M-vinay-kumar/gif_image/blob/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="380" height="280" alt="Instagram" />
     <img src="https://media1.tenor.com/m/Ny27M3POZacAAAAC/hotel-animation.gif" alt="Neural Network Animation" width="580" height="280" />
 </p>
@@ -38,5 +39,3 @@ Welcome to my GitHub profile! I am an aspiring Machine Learning Engineer, passio
 <p align="center">
     <img src="https://github.com/M-vinay-kumar/gif_image/blob/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="980" height="50" alt="Instagram" />
 </p>
-
-
