@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I am an aspiring Machine Learning Engineer, passio
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="50" height="50" />
   </a>
   <a href="tel:+918106628042">
-    <img src="https://www.svgrepo.com/show/474939/phone-android.svg" width="50" height="50" />
-  </a>
+  <img src="https://www.svgrepo.com/show/474939/phone-android.svg" width="50" height="50" />
+</a>
 </div>
 
 ---
