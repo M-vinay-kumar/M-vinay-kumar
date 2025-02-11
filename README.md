@@ -32,10 +32,27 @@ Welcome to my GitHub profile! I am an aspiring Machine Learning Engineer, passio
 
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://github.com/M-vinay-kumar/gif_image/blob/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="380" height="280" alt="Instagram" />
-    <img src="https://media1.tenor.com/m/Ny27M3POZacAAAAC/hotel-animation.gif" alt="Neural Network Animation" width="580" height="280" />
+    <img src="https://github.com/M-vinay-kumar/gif_image/blob/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="280" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img src="https://media1.tenor.com/m/Ny27M3POZacAAAAC/hotel-animation.gif" height="280" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+    
 </p>
 
 <p align="center">
     <img src="https://github.com/M-vinay-kumar/gif_image/blob/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="980" height="50" alt="Instagram" />
+</p>
+
+---
+
+### About Me
+
+<p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <ul style="text-align: left;">
+    <li>🔭 I’m currently working on Machine Learning and AI projects.</li>
+    <li>🌱 I’m always learning new data science techniques.</li>
+    <li>💬 Ask me about Python, ML algorithms, and Data Analysis.</li>
+  </ul>
+  <ul style="text-align: left;">
+    <li>📫 Reach me via <a href="mailto:modini4747@gmail.com">Email</a> or <a href="https://wa.me/918106628042">WhatsApp</a>.</li>
+    <li>⚡ Fun fact: I love working with data and automating tasks!</li>
+  </ul>
 </p>
